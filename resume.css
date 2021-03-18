@@ -1,3 +1,9 @@
+body{
+    font-family: Arial, Heveltica,serif;
+    font-size:18pt;
+}
+
+
 table, tr, td{
     border: 1px solid purple;
     border-collapse: collapse
@@ -5,4 +11,8 @@ table, tr, td{
 }
 table{
     width: 75%
+}
+p {
+color: blueviolet;
+
 }

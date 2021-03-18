@@ -1,0 +1,8 @@
+table, tr, td{
+    border: 1px solid purple;
+    border-collapse: collapse
+
+}
+table{
+    width: 75%
+}

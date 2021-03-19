@@ -1,6 +1,25 @@
+div p{
+    color:fuchsia
+}
+
+
+address{
+    font-size:  1.5em;
+    font-family: sans-serif;
+}
+
+.dates{
+    font-weight:bold
+}
+
+
+#job1{
+    font-style:italic;
+}
+
 body{
-    font-family: Arial, Heveltica,serif;
-    font-size:18pt;
+    font:normal normal normal 16pt/19.8pt Arial, Heveltica,sans-serif;
+    
 }
 
 
@@ -13,6 +32,6 @@ table{
     width: 75%
 }
 p {
-color:hotpink;
+color:darkorchid;
 
 }

@@ -1,0 +1,15 @@
+table, td{
+    border: 1px solid black;
+    border-collapse:collapse;
+    width:85%;
+    margin: 0 auto;
+
+}
+td{
+    height: 200px;
+    width: 25%;
+     color:green;
+     text-align: center;
+     font-size: 8em
+}
+
